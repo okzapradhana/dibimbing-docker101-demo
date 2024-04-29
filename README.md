@@ -11,4 +11,5 @@ Please define this variable on your `.env` that will be used by docker-compose.
 ```
 PG_USER=<your-pg-user>
 PG_PASSWORD=<your-pg-password>
+PG_DB=<your-db>
 ```
